@@ -14,7 +14,7 @@ There are two portions to this curriculum:
 | Done? | Subject                       | Topic  | Sources |
 |------|-------------------------------|--------|---------|
 |:white_check_mark:|Introduction|White Paper|[Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)|
-||Introduction|If I'd Known What We Were Starting (2017)|[If I'd Known What We Were Starting](https://www.linkedin.com/pulse/id-known-what-we-were-starting-ray-dillinger/)|
+|:white_check_mark:|Introduction|If I'd Known What We Were Starting (2017)|[If I'd Known What We Were Starting](https://www.linkedin.com/pulse/id-known-what-we-were-starting-ray-dillinger/)|
 ||Introduction|Bitcoin's Academic Pedigree (2017)|[Bitcoin's Academic Pedigree](https://queue.acm.org/detail.cfm?id=3136559)|
 ||Introduction|Intro to Blockchain|[What is blockchain anyway?](https://www.youtube.com/watch?v=on5ySFK0aoY)|
 ||Introduction|Intro to Blockchain|[Electronic cash explained for developers video](https://www.youtube.com/watch?v=TrF9RmfyLbw)|
